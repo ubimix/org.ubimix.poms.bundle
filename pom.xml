@@ -4,7 +4,7 @@
     <groupId>org.webreformatter.poms</groupId>
     <artifactId>org.webreformatter.poms.bundle</artifactId>
     <version>1.1.3</version>
-    <name>WebReformatterPOMs - parent OSGi bundle POM</name>
+    <name>${project.artifactId}</name>
     <packaging>pom</packaging>
     <properties>
         <org.osgi.service.http.port>8080</org.osgi.service.http.port>
